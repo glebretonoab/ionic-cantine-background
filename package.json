@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/glebretonoab/ionic-cantine-background#readme",
   "dependencies": {
-    "firebase-admin": "^6.1.0"
+    "firebase-admin": "^6.1.0",
+    "install": "^0.12.2",
+    "npm": "^6.4.1",
+    "pdfreader": "^0.2.5"
   }
 }
